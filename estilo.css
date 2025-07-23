@@ -32,6 +32,10 @@ button{
 
 }
 
+button:hover{
+    background-color: rgb(58, 56, 56);
+}
+
 main #course-content{
     border-top:1px solid #1e72a0;
    
@@ -56,6 +60,7 @@ main p{
     padding: 2%;
     color: aliceblue;
 }
+
 span{
     color: #1e72a0;
 }
